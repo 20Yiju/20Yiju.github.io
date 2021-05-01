@@ -1,3 +1,5 @@
+remote_theme : "mmistakes/minimal-mistakes"
+
 # Setup
 title: Yiju's Page!
 tagline: a dark mode friendly Jekyll theme
