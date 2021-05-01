@@ -6,6 +6,8 @@ url: "https://20yiju.github.io"
 paginate: 1
 baseurl: ""
 permalink: :title/
+remote_theme : "mmistakes/minimal-mistakes"
+
 
 
 
